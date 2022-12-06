@@ -1,8 +1,7 @@
 Site da aplicação: https://gustavojb1.github.io/dogs/
 
-A aplicação usa React Router para fazer o gerenciamento das rotas
-
-A aplicação usa CSS Module : posso ter nome de classes iguais em dois componentes diferentes, porem o CSS module irá puxar a classe que está no arquivo css do componente cujo qual foi importado no componente.
+Projeto feito para simulação de uma rede social para cachorros, conta com tela de login e criação de usuário, postagem e exclusão de posts e comentários, rotas protegidas, animações de transição de componentes, animações de carregamento de imagens e tratamento total de possíveis erros.
+Projeto foi feito utilizando as tecnologias de React como React Hooks, Custom Hooks e React Router, utilizei CSS Modules, NPM, Javascript e HTML
 
 API usada:
 https://dogsapi.origamid.dev/json/
